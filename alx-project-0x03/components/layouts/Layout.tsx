@@ -1,7 +1,7 @@
 import { ReactNode } from "react";
 import Footer from "@/components/layouts/Footer";
 import Header from "@/components/layouts/Header";
-import LayoutProps from '@/interfaces';
+import LayoutProps from '@/interface';
 
 
 
